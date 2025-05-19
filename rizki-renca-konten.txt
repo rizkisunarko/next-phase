@@ -1,3 +1,4 @@
 Rencana Belajar
 
--Javascript sebelum bulan juni
+-Belajar Javascript sebelum bulan juni
+-Belajar PHP dan Framework pada bulan Juni
